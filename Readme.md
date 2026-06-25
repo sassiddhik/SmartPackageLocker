@@ -75,20 +75,21 @@ SmartLockerSystem
 ```
 ---
 
-# The application follows clean architecture principle and coding best practices using solid pinciple and design patterns.
+ The application follows clean architecture principle and coding best practices using solid pinciple and design patterns.
+ 
 # SOLID PRINCIPLE
---S single responsibility implemented to all class level.
---O open/Close principle impleneted to classes must allow only for extension instead of modification.
---L not used
---I Interface has only relevant prop.
---D Dependecy Injection implemented. 
+- S single responsibility implemented to all class level.
+- O open/Close principle impleneted to classes must allow only for extension instead of modification.
+- L not used
+- I Interface has only relevant prop.
+- D Dependecy Injection implemented. 
 
 ---
 
 # DESIGN PATTERN
---Repository pattern
---Singleton pattern
---Factory pattern
---Strategy pattern
+- Repository pattern
+- Singleton pattern
+- Factory pattern
+- Strategy pattern
 
 
