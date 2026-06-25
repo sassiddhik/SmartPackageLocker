@@ -1,0 +1,6 @@
+@SmartPackageLocker.Server_HostAddress = http://localhost:5150
+
+GET {{SmartPackageLocker.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

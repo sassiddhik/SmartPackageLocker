@@ -1,0 +1,1 @@
+public record AssignPackageRequest(int LockerId,string TrackingNumber,string RecipientName);
