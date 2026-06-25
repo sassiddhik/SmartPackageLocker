@@ -90,5 +90,6 @@ SmartPackageLocker
 - Singleton pattern
 - Factory pattern
 - Strategy pattern
+- Dependency Injection (DI)
 
 
