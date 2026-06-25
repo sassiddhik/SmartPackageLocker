@@ -48,19 +48,18 @@ The application allows administrators to manage lockers and packages while enabl
 # Project Structure
 
 ```text
-SmartLockerSystem
+SmartPackageLocker
 │
-├── SmartLocker.Api
+├── SmartPackageLocker.Server
 │   ├── Controllers
 │   ├── Models
 │   ├── DTOs
 │   ├── Data
 │   ├── Services
-│   ├── Migrations
 │   ├── Program.cs
 │   └── appsettings.json
 │
-├── smart-locker-ui
+├── SmartPackageLocker.Client
 │   ├── src
 │   │   ├── pages
 │   │   ├── components
